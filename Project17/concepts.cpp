@@ -1,6 +1,3 @@
-Project14
-Project14
-https ://github.com/malakkahmedd/Project14/tree/525cb26d96b898e4ffbb3bee9fe3355e2982b3f1/Project14
 #include <iostream>
 #include <fstream>
 #include <string>
